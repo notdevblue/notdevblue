@@ -1,5 +1,3 @@
-<h5>Lorem ipsum dolor sit amet</h5>
-<h4>Lorem ipsum dolor sit amet</h4>
-<h3>Lorem ipsum dolor sit amet</h3>
-<h2>Lorem ipsum dolor sit amet</h2>
-<h1>Lorem ipsum dolor sit amet</h1>
+<h3>i use arch btw</h3>
+
+<image src="https://i.redd.it/20mazi9l5qc41.png" width="60%" height="60%">
