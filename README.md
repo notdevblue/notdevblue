@@ -1,3 +1,1 @@
-<h3>i use arch btw</h3>
-
-<image src="https://i.redd.it/20mazi9l5qc41.png" width="60%" height="60%">
+<image src="https://sd.keepcalms.com/i/keep-calm-and-install-gentoo-2.png" width="40%" height="40%">
