@@ -3,3 +3,5 @@
 * * *
 
 <h3>[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *찰칵*</h3>
+
+<a href="https://opgc.me/#/users/notdevblue" target="_blank"><img src="https://api.opgc.me/githubs/users/notdevblue/tag/?theme=basic" /></a>
