@@ -9,3 +9,5 @@
 ### Poorly: ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=Flat-square&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=Flat-square&logo=gnu-bash&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=Flat-square&logo=godot-engine)
 
 ---
+
+*겜마고 학생이었던 무언가*
