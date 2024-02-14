@@ -13,4 +13,4 @@
 
 ---
 
-#### [*겜마고 학생이었던 무언가*](http://ggm.gondr.net/user/profile/17)
+#### [*겜마고 학생이었던 무언가*](http://ggm.gondr.net/user/profile/5)
