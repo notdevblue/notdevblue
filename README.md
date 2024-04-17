@@ -9,7 +9,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=Flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=Flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=Flat-square&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=Flat-square&logo=Firebase&logoColor=white) 
 
 ### Poorly:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=Flat-square&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=Flat-square&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=Flat-square&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=Flat-square&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=Flat-square&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=Flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
