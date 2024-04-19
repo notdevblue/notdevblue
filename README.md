@@ -8,7 +8,7 @@
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdevblue&layout=compact&theme=dark">
-<img align="left" src="https://github.com/notdevblue/notdevblue/assets/67159445/b94de563-eb61-4aae-b57c-c637140d1b17" width=250px height=250px>
+<img align="left" src="https://github.com/notdevblue/notdevblue/assets/67159445/b94de563-eb61-4aae-b57c-c637140d1b17" width=280px height=280px>
 
 ### I can:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=Flat-square&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=Flat-square&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat-square&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=Flat-square&logo=mysql&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=Flat-square&logo=unity&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=Flat-square&logo=linux&logoColor=black)
