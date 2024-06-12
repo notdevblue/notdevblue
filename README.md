@@ -22,3 +22,6 @@
 </div> <!--td installgentoo-->
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
