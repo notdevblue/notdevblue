@@ -26,11 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 27 mins   █████████████████████▓░░░   86.17 %
-JavaScript   51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-CSHTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown     4 hrs 55 mins   ████████████████▓░░░░░░░░   66.30 %
+Assembly     2 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.65 %
+JavaScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
