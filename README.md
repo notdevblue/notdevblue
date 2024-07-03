@@ -23,7 +23,7 @@
 
 ---
 
-### Code activity last week:
+### Code activity of the last 7 days:
 
 <!--START_SECTION:waka-->
 
