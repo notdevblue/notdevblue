@@ -15,9 +15,8 @@
 ### Maybe:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=Flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat-square&logo=typescript&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=Flat-square&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=Flat-square&logo=Firebase&logoColor=white) 
 
-### Poorly:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=Flat-square&logo=rust&logoColor=white) 
-
+### Learning:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=Flat-square&logo=rust&logoColor=white)
   
 </div> <!--td installgentoo-->
 
