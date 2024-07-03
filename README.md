@@ -23,6 +23,8 @@
 
 ---
 
+### Code activity last week:
+
 <!--START_SECTION:waka-->
 
 ```txt
