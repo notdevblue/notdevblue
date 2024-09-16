@@ -27,7 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#       1 hr 25 mins    ████████████████▒░░░░░░░░   65.50 %
+Python   44 mins         ████████▓░░░░░░░░░░░░░░░░   34.46 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
