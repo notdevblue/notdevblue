@@ -27,8 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#    58 mins         ██████████████████████▓░░   90.80 %
-Git   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
