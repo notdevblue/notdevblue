@@ -16,8 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#      3 hrs 1 min     █████████████████████████   99.99 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
