@@ -16,7 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#      1 hr 17 mins    ████████████████████████▓   98.80 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
