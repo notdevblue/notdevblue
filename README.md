@@ -16,9 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#         26 mins         ████████████████████▒░░░░   81.57 %
-XML        5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
