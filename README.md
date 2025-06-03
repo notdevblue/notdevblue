@@ -16,10 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 4 mins          █████████████░░░░░░░░░░░░   51.85 %
-JSON                               2 mins          ████████▒░░░░░░░░░░░░░░░░   33.31 %
-Microsoft Visual Studio Solution   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-XML                                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
