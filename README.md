@@ -16,7 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python            3 hrs 7 mins    ███████████████▒░░░░░░░░░   60.81 %
+YAML              43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Markdown          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Xorg              17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Bash              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
