@@ -16,7 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   51 mins         ████████████████████▒░░░░   80.90 %
+i3config   12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
