@@ -16,10 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 7 mins     ██████████████████▓░░░░░░   74.58 %
-C#         22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
-Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
