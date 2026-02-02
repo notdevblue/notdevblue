@@ -16,8 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#           21 mins         ██████████████████████░░░   88.39 %
-JavaScript   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
